@@ -1,6 +1,6 @@
 <?php
 	
-PerchSystem::register_feather('whmii-legacy');
+PerchSystem::register_feather('whmiiscss');
 
 class PerchFeather_WHMII extends PerchFeather
 {
